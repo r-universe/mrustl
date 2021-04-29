@@ -4,5 +4,11 @@
     "url": "https://github.com/kwb-r/kwb.utils",
     "via": ["fvbb.scorer"],
     "from": "fvbb.scorer"
+  },
+  {
+    "package": "kwb.utils",
+    "url": "https://github.com/kwb-r/kwb.utils",
+    "via": ["tigo"],
+    "from": "tigo"
   }
 ]
