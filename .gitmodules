@@ -13,6 +13,11 @@
 	url = https://github.com/mrustl/fvbb.scorer
 	shallow = true
 	registered = true
+[submodule "tigo"]
+	path = tigo
+	url = https://github.com/mrustl/tigo
+	shallow = true
+	registered = true
 [submodule "kwb.utils"]
 	path = kwb.utils
 	url = https://github.com/kwb-r/kwb.utils
