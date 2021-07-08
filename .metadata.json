@@ -6,6 +6,9 @@
     "package": "fvbb.scorer"
   },
   {
+    "package": "mastr"
+  },
+  {
     "package": "tigo"
   }
 ]
