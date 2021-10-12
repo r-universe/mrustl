@@ -8,9 +8,19 @@
 	url = https://github.com/mrustl/dodv
 	shallow = true
 	registered = true
+[submodule "fvbb.scorer"]
+	path = fvbb.scorer
+	url = https://github.com/mrustl/fvbb.scorer
+	shallow = true
+	registered = true
 [submodule "mastr"]
 	path = mastr
 	url = https://github.com/mrustl/mastr
+	shallow = true
+	registered = true
+[submodule "tigo"]
+	path = tigo
+	url = https://github.com/mrustl/tigo
 	shallow = true
 	registered = true
 [submodule "kwb.utils"]
